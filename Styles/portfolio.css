@@ -141,3 +141,11 @@ td{
     font-weight: 700;
 font-size: 20px;
 }
+/* This What I Do */
+.wid{
+    max-width: 909px;
+    margin: 0 auto;
+}
+.skills-container{
+    display: flex;
+}
